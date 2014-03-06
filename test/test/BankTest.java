@@ -31,7 +31,7 @@ import pkg1_testy_bank.BankImpl;
  * 3. \@AfterClass -- metody statyczne, wywoływane w dowolnej kolejności
  */
 public class BankTest {
-	private static final boolean VERBOSE = false;
+	private static final boolean VERBOSE = true;
 	private Bank bank;
 
 	public BankTest() {
